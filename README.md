@@ -3,6 +3,8 @@ A robot that can analyze emotions.
 
 With this web app, you can analyze the sentiment of any text with just one click:
 Positive 😊 | Negative 😠 | or Neutral 😐
+<img src="preview.png" alt="EyeYOLO Demo" width="600"/>
+
 
 📌 Built with:
 - Python 🐍
